@@ -1,9 +1,6 @@
 ### Hi there  :wave:
 # I'm Tanush Shetty 👨🏻‍💻
 
-
-<img src="">
-
 ## My Coding Stack Includes 
 
 ### Languages
@@ -19,17 +16,16 @@
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 ### Cloud
-# <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit">
 
 ## My Domain Of Interest
 
-#### •🤖Artificial Intelligence
-#### •🧠Machine Learning 
-#### •📊Data Science
-#### •💻Full Stack Web Development
-#### • Database
+#### •📊 Data Science & Analysis
+#### •🧠 Machine Learning 
+#### •💻 Full Stack Web Development
+#### •☁️ Cloud
 
-### Always Looking for Projects to contribute and Upskill Myself.
+### Always Looking for any Projects to contribute and Upskill Myself.
 
 ### Feel Free to connect with me at the below Gmail
 tanushshetty47@gmail.com
