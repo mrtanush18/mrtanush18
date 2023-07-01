@@ -1,5 +1,5 @@
-### Hi there  :wave:
-# I'm Tanush Shetty 👨🏻‍💻
+### Hi there 
+<h1 align="center"> I'm Tanush Shetty 👨🏻‍💻<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
 
 ## My Coding Stack Includes 
 
