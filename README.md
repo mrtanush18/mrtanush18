@@ -26,30 +26,13 @@
 
 ### Always Looking for any Projects to contribute and Upskill Myself.
 
-### Feel Free to connect with me at the below Gmail
+### Feel free to connect: 
 tanushshetty47@gmail.com
 
-### Also Connect with me on LinkedIn
+### Also connect with me on LinkedIn
 https://www.linkedin.com/in/tanush-shetty/
 
 ### STATS  
 ![](https://komarev.com/ghpvc/?username=mrtanush18&color=blue)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrtanush18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-
-<!--
-![Visitor Count](https://profile-counter.glitch.me/{adrian2504}/count.svg)
-**adrian2504/adrian2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
