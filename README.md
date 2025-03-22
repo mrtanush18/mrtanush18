@@ -31,5 +31,5 @@
 >🖇️ [LinkedIn](https://www.linkedin.com/in/tanush-shetty/)
 
 >🖇️ [Portfolio](https://mrtanush18.github.io/tanushs08.github.io/)
->
->🚀 Always open to collaboration on data-driven projects!
+
+🚀 Always open to collaboration on data-driven projects!
